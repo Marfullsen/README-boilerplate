@@ -25,17 +25,25 @@
 - [Getting Started](#getting_started)
 - [Deployment](#deployment)
 - [Usage](#usage)
-- [Built Using](#built_using)
+- [Technologies used](#built_using)
 - [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
+- [References](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
 
-Describe the most relevant of your project.
+I just needed to save a **template** of the **README.me** that I always need urgently.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-First steps.
+First steps:
+
+- Create a repo on Github
+- Clone it or do an `git init` and then a `git remote add origin git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPO.git`
+- Use `git remote -v` to verify the url of the repo.
+- Add a **readme.md** file.
+- Fill with this template and change it your own.
+- Do a `git add README.md` and then a `git commit -m "docs: README file added."`
+- That's all, good luck!
 
 ### Prerequisites
 
@@ -47,8 +55,16 @@ First steps.
 
 ### Installing
 
+Many times I like to use the atlassian convention.
+
 ```
-rm sys23.exe
+git commit -m "init: boilerplate or first files."
+
+git commit -m "feature: new super component added."
+git commit -m "refactor: code cleaned/optimized."
+git commit -m "hotfix: ups, typo fixed."
+
+git commit -m "docs: some docs, any documentation."
 ```
 
 ## 🔧 Running the tests <a name = "tests"></a>
@@ -57,8 +73,17 @@ The tests... ehm...
 
 ## 🎈 Usage <a name="usage"></a>
 
+copy paste and then
+
 ```
-run main.py
+git status
+git add README.md
+
+git status
+git commit -m "docs: SUPER INCREDIBLE DOCUMENTATION ADDED!"
+
+git status
+git push origin master
 ```
 
 ## 🚀 Deployment <a name = "deployment"></a>
@@ -79,7 +104,8 @@ run main.py
 
 ## 🎉 References <a name = "acknowledgement"></a>
 
-- [freepik](www.freepik.com)
+- [freepik](www.freepik.com) - fREE ImAgEs!
+- [DeeplL](https://www.deepl.com/translator) - The best translator EVER!
 - Hat tip to anyone whose code was used
 - Inspiration
 - References
