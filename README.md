@@ -39,9 +39,9 @@ I just needed to save a **template** of the **README.me** that I always need urg
 First steps:
 
 - Create a repo on Github
-- Clone it.
+- Clone it `git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git`
   - or do an `git init` 
-  - and then a `git remote add origin git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPO.git`
+  - and then a `git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPO.git`
 - Use `git remote -v` to verify the url of the repo.
 - Add a **readme.md** file.
 - Fill with this template and change it your own.
