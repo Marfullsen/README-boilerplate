@@ -20,7 +20,9 @@
   Hello, this is my CUSTOM TEMPLATE for readme.md docs!
 </p>
 
-[🌐 Leer en español 🇪🇸](./LEEME.md)
+<p align="right">
+  [🌐 Leer en español 🇪🇸](./LEEME.md)
+</p>
 
 ## 📝 Table of Contents
 

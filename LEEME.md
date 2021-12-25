@@ -16,11 +16,13 @@
 
 </div>
 
-<p align="center"> 
+<p align="center">
   Hola, esto es tan sólo mi plantilla persnalizada para la documentación de repos!
 </p>
 
-[🌐 Read in English 🇬🇧](./README.md)
+<p align="right">
+  [🌐 Read in English 🇬🇧](./README.md)
+</p>
 
 ## 📝 Contenidos
 
