@@ -1,7 +1,3 @@
-<p align="right">
-  <a href="./LEEME.md" rel="noopener">🌐 Leer en español 🇪🇸</a>
-</p>
-
 <p align="center">
   <a href="" rel="noopener">
  <img src="./docs/img/logo.jpg" alt="Project logo"></a>
@@ -17,6 +13,8 @@
 [![blueviolet_badge](https://img.shields.io/badge/badge-blueviolet-blueviolet.svg)](https://shields.io/)
 [![ff69b4_badge](https://img.shields.io/badge/badge-ff69b4-ff69b4.svg)](https://shields.io/)
 [![9cf_badge](https://img.shields.io/badge/badge-9cf-9cf.svg)](https://shields.io/)
+<br/>
+🌐 [Cambiar idioma](./LEEME.md)
 
 </div>
 
@@ -117,6 +115,7 @@ git push origin master
 
 ## 🎉 References <a name = "acknowledgement"></a>
 
+- [Spanish version](./LEEME.md) 🇪🇸
 - [freepik](www.freepik.com) - fREE ImAgEs!
 - [DeepL](https://www.deepl.com/translator) - The best translator EVER!
 - Hat tip to anyone whose code was used
