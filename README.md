@@ -5,56 +5,58 @@
 
 <div align="center">
 
-## Title of the project.
+## Título del projecto
 
-[![green_badge](https://img.shields.io/badge/badge-success-success.svg)](https://shields.io/)
-[![red_badge](https://img.shields.io/badge/badge-critical-critical.svg)](https://shields.io/)
-[![blue_badge](https://img.shields.io/badge/badge-blue-blue.svg)](https://shields.io/)
-[![blueviolet_badge](https://img.shields.io/badge/badge-blueviolet-blueviolet.svg)](https://shields.io/)
-[![ff69b4_badge](https://img.shields.io/badge/badge-ff69b4-ff69b4.svg)](https://shields.io/)
-[![9cf_badge](https://img.shields.io/badge/badge-9cf-9cf.svg)](https://shields.io/)
+[![green_badge](https://img.shields.io/badge/insignia-success-success.svg)](https://shields.io/)
+[![red_badge](https://img.shields.io/badge/insignia-critical-critical.svg)](https://shields.io/)
+[![blue_badge](https://img.shields.io/badge/insignia-blue-blue.svg)](https://shields.io/)
+[![blueviolet_badge](https://img.shields.io/badge/insignia-blueviolet-blueviolet.svg)](https://shields.io/)
+[![ff69b4_badge](https://img.shields.io/badge/insignia-ff69b4-ff69b4.svg)](https://shields.io/)
+[![9cf_badge](https://img.shields.io/badge/insignia-9cf-9cf.svg)](https://shields.io/)
 
 </div>
 
 <p align="center"> 
-  Hello, this is my CUSTOM TEMPLATE for readme.md docs!
+  Hola, esto es tan sólo mi plantilla persnalizada para la documentación de repos!
 </p>
 
-## 📝 Table of Contents
+🌐 Read in English 🇬🇧
 
-- [About](#about)
-- [Getting Started](#getting_started)
+## 📝 Contenidos
+
+- [¿Qué es blablabla?](#about)
+- [Por hacer](#todo)
+- [¡Empecemos!](#getting_started)
 - [Deployment](#deployment)
 - [Usage](#usage)
 - [Technologies used](#built_using)
 - [Authors](#authors)
 - [References](#acknowledgement)
 
-## 🧐 About <a name = "about"></a>
+## 🧐 ¿Qué es blablabla? <a name = "about"></a>
 
 I just needed to save a **template** of the **README.me** that I always need urgently.
 
-## TODO
+## Por hacer  <a name = "todo"></a>
 
-- tRANSlatioN to SpAnIsh (from Chili).
-- aDD mOrE emojis.
-- Accept any PR.
+- Agregar más emojis
+- Aceptar alguna solicitud de Pull.
 
-## 🏁 Getting Started <a name = "getting_started"></a>
+## 🏁 ¡Empecemos! <a name = "getting_started"></a>
 
-First steps:
+Primeros pasos:
 
-- Create a repo on Github
-- Clone it `git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git`
-  - or do an `git init` 
-  - and then a `git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPO.git`
-- Use `git remote -v` to verify the url of the repo.
-- Add a **readme.md** file.
-- Fill with this template and change it your own.
-- Do a `git add README.md` and then a `git commit -m "docs: README file added."`
-- That's all, good luck!
+- ¡Crea un repo en Github!
+- ¡Clónalo! `git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git`
+  - También puedes traer los cambios a un repo nuevo, pero para eso deberías inicializarlo con `git init` 
+  - Luego añadir el repo `git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPO.git`
+- Usa `git remote -v` para verificar la url del repo.
+- Añade un nuevo archivo llamado **readme.md** (también sirve un archivo TXT **cambiando a** la extensión **MD**).
+- Copia & pega esta plantilla y modifícala a tu antojo.
+- Haz un `git add README.md` y luego haz un `git commit -m "docs: archivo principal de documentación agregado."`
+- Eso sería todo, ¡buena suerte!
 
-### Prerequisites
+### Requisitos previos
 
 - Python4
 - Java 81
@@ -62,59 +64,66 @@ First steps:
 - CSS7
 - HTML10
 
-### Installing
+### Instalación
 
-Many times I like to use the atlassian convention.
+Por lo general siempre sigo la convención de Atlassian para el mensaje de los _commits_.
 
 ```
-git commit -m "init: boilerplate or first files."
+git commit -m "init: Inicio del proyecto."
 
-git commit -m "feature: new super component added."
-git commit -m "refactor: code cleaned/optimized."
-git commit -m "hotfix: ups, typo fixed."
+git commit -m "feature: Nuevo super componente agregado."
+git commit -m "refactor: código ordenado/optimizado."
+git commit -m "hotfix: ups, typo arreglado."
 
-git commit -m "docs: some docs, any documentation."
+git commit -m "docs: cambio en el título del proyecto (nuevo -> más nuevo)."
 ```
 
-## 🔧 Running the tests <a name = "tests"></a>
+## 🔧 Correr las pruebas <a name = "tests"></a>
 
-The tests... ehm...
+Las pruebas... emm... ¿alguien hizo alguna prueba unitaria? ¿aunque sea una? ... sigamos con el siguiente punto.
 
-## 🎈 Usage <a name="usage"></a>
+## 🎈 Uso <a name="usage"></a>
 
-copy paste and then
+Copia & pega la plantilla, haz los cambios que estimes convenientes y luego ejecuta estos comandos para enviar los cambios al _repo_ de github.
 
 ```
 git status
 git add README.md
 
 git status
-git commit -m "docs: SUPER INCREDIBLE DOCUMENTATION ADDED!"
+git commit -m "docs: DOCUMENTACIÓN SUPER INCREIBLE AGREGADA!"
 
 git status
 git push origin master
 ```
 
-## 🚀 Deployment <a name = "deployment"></a>
+**Nota:** En algunos casos la gente usa `main` en lugar de `master`
 
-**Create a 404.html** with same content as **index.html** when going to deployment.
+```
+git push origin main
+```
 
-## ⛏️ Built Using <a name = "built_using"></a>
+## 🚀 Fase de producción <a name = "deployment"></a>
 
-- ~~[MongoDB](https://www.mongodb.com/) - Database~~
-- ~~[Express](https://expressjs.com/) - Server Framework~~
-- [Vue.js](https://vuejs.org/) - Web Framework
-- ~~[Node.js](https://nodejs.org/en/) - Server Environment~~
+Cuando se pase a la fase de producción, se recomienda **crear un archivo llamado 404.html** con el mismo contenido que tiene el archivo **index.html**, esto para lograr que el enrutador de Vue5 logre redireccionar a la url y no caiga en la página **404.html** que nos provee Github.
 
-## ✍️ Authors <a name = "authors"></a>
+## ⛏️ Tecnologías usadas <a name = "built_using"></a>
 
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
-- [@Marfullsen](https://github.com/Marfullsen) - Adaptation to a custom design.
+- ~~[MongoDB](https://www.mongodb.com/) - Base de datos no relacional~~
+- ~~[Express](https://expressjs.com/) - Framework para el servidor/backend~~
+- [Vue.js](https://vuejs.org/) - Framework de JavaScript para el cliente/frontend
+- ~~[Node.js](https://nodejs.org/en/) - Entorno del sevidor/backend~~
 
-## 🎉 References <a name = "acknowledgement"></a>
+## ✍️ Autores <a name = "authors"></a>
 
-- [freepik](www.freepik.com) - fREE ImAgEs!
-- [DeepL](https://www.deepl.com/translator) - The best translator EVER!
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+- [@kylelobo](https://github.com/kylelobo) - Idea y trabajo incial como extensión de VS.
+- [@Marfullsen](https://github.com/Marfullsen) - Adaptación al diseño personalizado de Github.
+
+## 🎉 Referencias <a name = "acknowledgement"></a>
+
+- [freepik](www.freepik.com) - Imágenes GRATUITAS (y de gran calidad)!
+- [Carbon.sh](https://carbon.now.sh/) - Creador de hermosas imágenes de algún código fuente.
+- [DeepL](https://www.deepl.com/translator) - El mejor traductor del mundo!
+- Gracias a todos los que hicieron esto posible.
+- Inspirado en el trabajo de Kylelobo.
+- Otras referencias.
