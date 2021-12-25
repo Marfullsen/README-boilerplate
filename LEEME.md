@@ -29,11 +29,11 @@
 - [¿Qué es blablabla?](#about)
 - [Por hacer](#todo)
 - [¡Empecemos!](#getting_started)
-- [Deployment](#deployment)
-- [Usage](#usage)
-- [Technologies used](#built_using)
-- [Authors](#authors)
-- [References](#acknowledgement)
+- [Fase de producción](#deployment)
+- [ejecución](#usage)
+- [Tecnologías usadas](#built_using)
+- [Autores](#authors)
+- [Referencias](#acknowledgement)
 
 ## 🧐 ¿Qué es blablabla? <a name = "about"></a>
 
@@ -84,7 +84,7 @@ git commit -m "docs: cambio en el título del proyecto (nuevo -> más nuevo)."
 
 Las pruebas... emm... ¿alguien hizo alguna prueba unitaria? ¿aunque sea una? ... sigamos con el siguiente punto.
 
-## 🎈 Uso <a name="usage"></a>
+## 🎈 Ejecución <a name="usage"></a>
 
 Copia & pega la plantilla, haz los cambios que estimes convenientes y luego ejecuta estos comandos para enviar los cambios al _repo_ de github.
 
