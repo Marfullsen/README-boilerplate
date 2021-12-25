@@ -1,3 +1,7 @@
+<p align="right">
+  <a href="./LEEME.md" rel="noopener">🌐 Leer en español 🇪🇸</a>
+</p>
+
 <p align="center">
   <a href="" rel="noopener">
  <img src="./docs/img/logo.jpg" alt="Project logo"></a>
@@ -18,10 +22,6 @@
 
 <p align="center"> 
   Hello, this is my CUSTOM TEMPLATE for readme.md docs!
-</p>
-
-<p align="right">
-  [🌐 Leer en español 🇪🇸](./LEEME.md)
 </p>
 
 ## 📝 Table of Contents

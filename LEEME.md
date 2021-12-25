@@ -1,3 +1,7 @@
+<p align="right">
+  <a href="./README.md" rel="noopener">🌐 Read in English 🇬🇧</a>
+</p>
+
 <p align="center">
   <a href="" rel="noopener">
  <img src="./docs/img/logo.jpg" alt="Project logo"></a>
@@ -18,10 +22,6 @@
 
 <p align="center">
   Hola, esto es tan sólo mi plantilla persnalizada para la documentación de repos!
-</p>
-
-<p align="right">
-  [🌐 Read in English 🇬🇧](./README.md)
 </p>
 
 ## 📝 Contenidos
