@@ -20,7 +20,7 @@
   Hola, esto es tan sólo mi plantilla persnalizada para la documentación de repos!
 </p>
 
-🌐 Read in English 🇬🇧
+[🌐 Read in English 🇬🇧](./README.md)
 
 ## 📝 Contenidos
 
