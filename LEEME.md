@@ -17,6 +17,8 @@
 [![blueviolet_badge](https://img.shields.io/badge/insignia-blueviolet-blueviolet.svg)](https://shields.io/)
 [![ff69b4_badge](https://img.shields.io/badge/insignia-ff69b4-ff69b4.svg)](https://shields.io/)
 [![9cf_badge](https://img.shields.io/badge/insignia-9cf-9cf.svg)](https://shields.io/)
+<br>
+[Change language](./README.md)
 
 </div>
 
@@ -26,7 +28,7 @@
 
 ## 📝 Contenidos
 
-- [¿Qué es blablabla?](#about)
+- [¿Qué es README boilerplate?](#about)
 - [Por hacer](#todo)
 - [¡Empecemos!](#getting_started)
 - [Fase de producción](#deployment)
@@ -35,9 +37,9 @@
 - [Autores](#authors)
 - [Referencias](#acknowledgement)
 
-## 🧐 ¿Qué es blablabla? <a name = "about"></a>
+## 🧐 ¿Qué es README boilerplate? <a name = "about"></a>
 
-I just needed to save a **template** of the **README.me** that I always need urgently.
+¿Cuántas veces he necesitado con urgencia hacer un archivo de documentación **a mi manera**? Pues bien, por ese motivo he creado esta **platilla** de un archivo **README.md**, de manera más habitual a mi estilo.
 
 ## Por hacer  <a name = "todo"></a>
 
@@ -123,6 +125,7 @@ Cuando se pase a la fase de producción, se recomienda **crear un archivo llamad
 
 ## 🎉 Referencias <a name = "acknowledgement"></a>
 
+- [🌐 Read this documentation in English](./README.md)
 - [freepik](www.freepik.com) - Imágenes GRATUITAS (y de gran calidad)!
 - [Carbon.sh](https://carbon.now.sh/) - Creador de hermosas imágenes de algún código fuente.
 - [DeepL](https://www.deepl.com/translator) - El mejor traductor del mundo!
