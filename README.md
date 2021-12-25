@@ -34,6 +34,12 @@
 
 I just needed to save a **template** of the **README.me** that I always need urgently.
 
+## TODO
+
+- tRANSlatioN to SpAnIsh (from Chili).
+- aDD mOrE emojis.
+- Accept any PR.
+
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
 First steps:
