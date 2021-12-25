@@ -1,11 +1,12 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="./docs/img/logo.png" alt="Project logo"></a>
+ <img src="./docs/img/logo.jpg" alt="Project logo"></a>
 </p>
 
 <div align="center">
 
 ## Title of the project.
+
 [![green_badge](https://img.shields.io/badge/badge-success-success.svg)](https://shields.io/)
 [![red_badge](https://img.shields.io/badge/badge-critical-critical.svg)](https://shields.io/)
 [![blue_badge](https://img.shields.io/badge/badge-blue-blue.svg)](https://shields.io/)
@@ -16,7 +17,7 @@
 </div>
 
 <p align="center"> 
-  Hello, this is my CUSTOM TEMPLATE!
+  Hello, this is my CUSTOM TEMPLATE for readme.md docs!
 </p>
 
 ## 📝 Table of Contents
@@ -38,7 +39,9 @@ I just needed to save a **template** of the **README.me** that I always need urg
 First steps:
 
 - Create a repo on Github
-- Clone it or do an `git init` and then a `git remote add origin git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPO.git`
+- Clone it.
+  - or do an `git init` 
+  - and then a `git remote add origin git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPO.git`
 - Use `git remote -v` to verify the url of the repo.
 - Add a **readme.md** file.
 - Fill with this template and change it your own.
@@ -94,7 +97,7 @@ git push origin master
 
 - ~~[MongoDB](https://www.mongodb.com/) - Database~~
 - ~~[Express](https://expressjs.com/) - Server Framework~~
-- [VueJs](https://vuejs.org/) - Web Framework
+- [Vue.js](https://vuejs.org/) - Web Framework
 - ~~[Node.js](https://nodejs.org/en/) - Server Environment~~
 
 ## ✍️ Authors <a name = "authors"></a>
@@ -105,7 +108,7 @@ git push origin master
 ## 🎉 References <a name = "acknowledgement"></a>
 
 - [freepik](www.freepik.com) - fREE ImAgEs!
-- [DeeplL](https://www.deepl.com/translator) - The best translator EVER!
+- [DeepL](https://www.deepl.com/translator) - The best translator EVER!
 - Hat tip to anyone whose code was used
 - Inspiration
 - References
